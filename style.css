@@ -134,7 +134,7 @@ button {
 
   .students {
     padding: 0;
-    margin: 2.2rem;
+    margin: 1rem;
     gap: 1rem;
     display: flex;
     flex-direction: row;
